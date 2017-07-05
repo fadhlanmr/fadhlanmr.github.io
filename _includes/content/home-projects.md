@@ -1,9 +1,12 @@
 
-# Here's what I've been working on
+# Semua hal yang telah (dan sedang) dilakukan
 
-* ### Investigating the connection between Jekyll and Hyde
-    * I'm on a quest to investigate the identity of Hyde, as I fear that he is blackmailing Jekyll. 
+1 #### Semua projek <abbr title="Organisasi Siswa Intra Sekolah">OSIS</abbr> sebagai Divisi Design
+    - 2 Tahun berkontribusi dengan Organisasi sekolah untuk mengisi agenda sekolah dan mengolah aspirasi warga sekolah
+    '''
+    Bersatu Berkarya Berjaya <cite>-Javas & Dirgaxena</cite>
+    '''
 
 
-* ### [(Another Sample Project)](http://utterson.alidcastano.com/)
-    * Just working on changing the world, no big deal.
+2 #### Orang Hutan
+    - Just working on changing the world, no big deal.
