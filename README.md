@@ -1,9 +1,10 @@
-# Utterson
+# Personal Blog using utterson theme
+
+### Utterson
 
 *The Strange Case of Dr. Jekyll and Mr. Hyde* tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. This lawyer is Mr. Gabriel John Utterson, a loyal friend of Jekyll's (and, soon enough, a loyal friend of yours, as well).
 
 
-## Personal Blog using utterson theme
 
 
 ### License 
