@@ -1,7 +1,7 @@
 # Setup
-title:               Utterson
-tagline:             The Jekyll Companion
-url:                 http://utterson.alidcastano.com
+title:               Fadhlan Things
+tagline:             Blog apasih
+url:                 http://apnih.blogspot.com
 analytics_id:        UA-53335201-2
 
 # About/contact
@@ -29,7 +29,7 @@ defaults:
       type: "posts" 
     values:
       layout: "post"
-      author: Gabriel Utterson
+      author: Fadhlan
   -
     scope:
       path: "" 
