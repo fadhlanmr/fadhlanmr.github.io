@@ -1,12 +1,12 @@
 
 # Semua hal yang telah (dan sedang) dilakukan
 
-1 #### Semua projek <abbr title="Organisasi Siswa Intra Sekolah">OSIS</abbr> sebagai Divisi Design
-    - 2 Tahun berkontribusi dengan Organisasi sekolah untuk mengisi agenda sekolah dan mengolah aspirasi warga sekolah
-    '''
+#### 1 Semua projek <abbr title="Organisasi Siswa Intra Sekolah">OSIS</abbr> sebagai Divisi Design
+    2 Tahun berkontribusi dengan Organisasi sekolah untuk mengisi agenda sekolah dan mengolah aspirasi warga sekolah
+    
     Bersatu Berkarya Berjaya <cite>-Javas & Dirgaxena</cite>
-    '''
+    
 
 
-2 #### Orang Hutan
+#### 2 Orang Hutan
     - Just working on changing the world, no big deal.
