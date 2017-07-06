@@ -4,7 +4,10 @@ Anak rantau dari **bekasi** ke **surabaya**, berharap dapat memberi hidup yang l
 
 *Pertama kali memakai Markdown* berharap akan lebih leluasa dan lebih cepat,
 
-variabel kesukaan *var oh = "Orang Hutan"* yang memang suka menghutankan diri
+{% highlight js %}
+var oh = "Orang Hutan"
+{% endhighlight %}
+yang memang suka menghutankan diri
 
 ada [blogspot juga](https:\\apnih.blogspot.com).
 
