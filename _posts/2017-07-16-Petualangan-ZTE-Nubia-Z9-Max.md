@@ -68,8 +68,8 @@ Damn, what did i miss. I was trying to search for custom TWRP for Nubia, but it'
 then, i found [this](http://www.alegrecompra.com/blog/instalar-twrp-recovery-root-gapps-para-nubia-z9-nx508j-z9-mini-nx511j-z9-max-nx510jnx512jnx518j/) custom ZTE android driver, with adb and fastboot config.
 Oh! so that's why it doesn't listed the same as it's series number....
 
-because it's come with custom TWRP for NX512J, i said why the fuck not?
-![The Fuck not](http://www.alegrecompra.com/blog/wp-content/uploads/2016/08/zte-nubia-z11-twrp-recovery-root-gapps-4.jpg) i don't speak mexican and chinese (or it seems). But lucky me, it come with typed instructions. Gotta translate the shit out of it
+because it's come with custom TWRP for NX512J, i said why the f*** not?
+![Sorry! Image missing, it's mexico and chinese screenshot apparently](http://www.alegrecompra.com/blog/wp-content/uploads/2016/08/zte-nubia-z11-twrp-recovery-root-gapps-4.jpg) i don't speak mexican and chinese (or it seems). But lucky me, it come with typed instructions. Gotta translate the shit out of it
 
 I chose <del>you, Pikachu!</del> number 4, because i had already in fastboot mode.
 {% highlight text %}
