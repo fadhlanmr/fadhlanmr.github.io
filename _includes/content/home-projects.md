@@ -1,9 +1,7 @@
 
-# 1, Semua proyek <abbr title="Organisasi Siswa Intra Sekolah">OSIS</abbr> sebagai Divisi Design
-	2 Tahun berkontribusi dengan Organisasi sekolah untuk mengisi 
-	agenda dan mengolah aspirasi warga sekolah
-    
-> Bersatu Berkarya Berjaya <cite>-Javas & Dirgaxena</cite>
+# 1, Div. Informasi dan Teknologi
+	OSIS SMAN 48 JKT 2015-2016
 
-# 2, Orang Hutan
-	ingin membuat dunia lebih baik, dan mengembangkan hutan 'dunia maya'
+# 2, Random Stuff
+	since my first year at college
+	
