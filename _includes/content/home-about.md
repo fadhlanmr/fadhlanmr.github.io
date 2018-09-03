@@ -1,13 +1,13 @@
 # Tentang Aku
 
-Anak rantau dari **bekasi** ke **surabaya**, berharap dapat memberi hidup yang lebih mudah bagi semua orang.
+Anak rantau dari *bekasi* ke *surabaya*,
+Pertama kali memakai Markdown berharap akan lebih leluasa dan lebih cepat,
 
-*Pertama kali memakai Markdown* berharap akan lebih leluasa dan lebih cepat,
+```language-javascript
+   var oh = "Orang Hutan"
+```
 
-{% highlight js %}
-var oh = "Orang Hutan"
-{% endhighlight %}
-yang memang suka menghutankan diri
+suka dengerin musik dan main ukulele
 
 ada [blogspot juga](https:\\apnih.blogspot.com).
 
