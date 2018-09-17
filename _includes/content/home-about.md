@@ -1,5 +1,8 @@
 # Tentang Aku
 
+lahir dengan nama **Muhammad Fadhlan Min Robby** (sesuai Akte Kelahiran)
+nrp **05111740000123&&
+
 Anak rantau dari *bekasi* ke *surabaya*,
 Pertama kali memakai Markdown berharap akan lebih leluasa dan lebih cepat,
 
