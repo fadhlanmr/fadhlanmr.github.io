@@ -11,7 +11,6 @@ berikut merupakan *source code* dari program menggambar di java saya
 ## class Picture
 
 ```java
-
 /**
  * class picture sebagai wadah menampilkan canvas
  *
@@ -115,6 +114,7 @@ public class Picture
 ```
 
 ## class Circle
+
 ```java
 import java.awt.*;
 import java.awt.geom.*;
@@ -312,6 +312,7 @@ public class Circle
 ```
 
 ## class Square
+
 ```java
 import java.awt.*;
 
@@ -508,6 +509,7 @@ public class Square
 ```
 
 ## class Triangle
+
 ```java
 import java.awt.*;
 
@@ -707,6 +709,7 @@ public class Triangle
 ```
 
 ## class Canvas
+
 ```java
 import javax.swing.*;
 import java.awt.*;
